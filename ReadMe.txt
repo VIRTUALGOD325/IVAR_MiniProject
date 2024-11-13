@@ -55,11 +55,9 @@ Notice: This simulator was built on Windows 11 and has been tested on Windows pl
 Realistic Gameplay: Our focus on AI, graphics, and animations ensures a lifelike racing experience.
 Developer-Friendly: Whether you're looking to learn or expand your Unity skills, our well-documented project structure makes it easy to dive in.
 Community Driven: Join a growing community of racing enthusiasts and developers. Share your modifications, suggest features, and collaborate to make this simulator even better.
+
 🤝 Contributing
 We welcome contributions from the community! Whether it's reporting bugs, suggesting features, or submitting pull requests, your involvement helps us improve the simulator. Please check our Contributing Guidelines for more details.
-
-📄 License
-This project is licensed under the MIT License, allowing you to use, modify, and distribute it freely.
 
 📢 Get Involved!
 Ready to hit the tracks? Download the project, set it up following the instructions, and start racing today! Don't forget to star the repository and share your feedback.
